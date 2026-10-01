@@ -1,0 +1,6 @@
+node_modules
+.wwebjs_auth
+.wwebjs_cache
+orders.txt
+auth_info
+*.log

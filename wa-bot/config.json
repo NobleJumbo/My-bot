@@ -1,0 +1,11 @@
+{
+  "product": "Bone Straight Hair 12 inches",
+  "price": 15000,
+  "otherProducts": "14 inches: 18k, 16 inches: 22k",
+  "deliveryBenin": 1500,
+  "deliveryOutside": 3000,
+  "location": "New Benin Market, opposite UBA",
+  "account": "Opay - 1234567890 - Your Name",
+  "greeting": "Welcome to Hair Empire!",
+  "images": ["hair1.jpg", "hair2.jpg", "hair3.jpg"]
+}
