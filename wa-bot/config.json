@@ -1,11 +1,13 @@
 {
-  "product": "Bone Straight Hair 12 inches",
-  "price": 15000,
-  "otherProducts": "14 inches: 18k, 16 inches: 22k",
-  "deliveryBenin": 1500,
-  "deliveryOutside": 3000,
-  "location": "New Benin Market, opposite UBA",
-  "account": "Opay - 1234567890 - Your Name",
-  "greeting": "Welcome to Hair Empire!",
-  "images": ["hair1.jpg", "hair2.jpg", "hair3.jpg"]
+  "businessName": "Ruthie’s signature scent ",
+  "greeting": "your signature scent is just a dm away🌸",
+  "location": "No 50b Okujagu street, Azuabie town",
+  "account": "PalmPay- 9015449220 - Ruth lucky Benneth ",
+  "delivery ph": "depends on the location ",
+  "products": [
+    { "id": 1, "name": "9pm rebel", "price": "10,000", "size": "50ml" },
+    { "id": 2, "name": "Temptation perfume", "price": "4,500", "size": "100ml" },
+    { "id": 3, "name": "Oud touch", "price": "4,500", "size": "25ml" },
+    { "id": 4, "name": "Combo Deal - 3 perfumes", "price": "15000", "size": "Combo" }
+  ]
 }
