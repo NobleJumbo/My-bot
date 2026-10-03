@@ -8,6 +8,6 @@
     { "id": 1, "name": "9pm rebel", "price": "10,000", "size": "50ml" },
     { "id": 2, "name": "Temptation perfume", "price": "4,500", "size": "100ml" },
     { "id": 3, "name": "Oud touch", "price": "4,500", "size": "25ml" },
-    { "id": 4, "name": "Combo Deal - 3 perfumes", "price": "15000", "size": "Combo" }
+    { "id": 4, "name": "Combo Deal - 3 perfumes", "price": "15,000", "size": "Combo" }
   ]
 }

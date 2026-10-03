@@ -18,7 +18,7 @@ client.on('qr', qr => {
 });
 
 client.on('ready', () => {
-  console.log('BOT IS RUNNING - Ruthie Bot Ready!');
+  console.log('BOT IS RUNNING - Ruthie Bot Ready!.');
 });
 
 client.on('message', async msg => {
